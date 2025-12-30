@@ -329,7 +329,7 @@
 				CODE_SIGN_ENTITLEMENTS = "OpenInTerminal-Lite/OpenInTerminal-Lite.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = Q33U8R4U57;
+				DEVELOPMENT_TEAM = 5VL7RF75X7;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = "OpenInTerminal-Lite/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -338,7 +338,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.13;
 				MARKETING_VERSION = 1.2.7;
-				PRODUCT_BUNDLE_IDENTIFIER = "wang.jianing.app.OpenInTerminal-Lite";
+				PRODUCT_BUNDLE_IDENTIFIER = "ckt.app.OpenInTerminal-Lite";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -353,7 +353,7 @@
 				CODE_SIGN_ENTITLEMENTS = "OpenInTerminal-Lite/OpenInTerminal-Lite.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = Q33U8R4U57;
+				DEVELOPMENT_TEAM = 5VL7RF75X7;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = "OpenInTerminal-Lite/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -362,7 +362,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.13;
 				MARKETING_VERSION = 1.2.7;
-				PRODUCT_BUNDLE_IDENTIFIER = "wang.jianing.app.OpenInTerminal-Lite";
+				PRODUCT_BUNDLE_IDENTIFIER = "ckt.app.OpenInTerminal-Lite";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
