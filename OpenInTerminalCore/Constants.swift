@@ -12,9 +12,9 @@ struct Constants {
     
     /// Identifier
     struct Id {
-        static let Group = "group.wang.jianing.app.OpenInTerminal"
-        static let OpenInTerminalLite = "wang.jianing.app.OpenInTerminal-Lite"
-        static let OpenInEditorLite = "wang.jianing.app.OpenInEditor-Lite"
+        static let Group = "group.ckt.dev.app.OpenInTerminal"
+        static let OpenInTerminalLite = "ckt.dev.app.OpenInTerminal-Lite"
+        static let OpenInEditorLite = "ckt.dev.app.OpenInEditor-Lite"
         static let Finder = "com.apple.Finder"
     }
     
